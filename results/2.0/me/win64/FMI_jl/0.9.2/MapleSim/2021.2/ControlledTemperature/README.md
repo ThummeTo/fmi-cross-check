@@ -1,1 +1,0 @@
-See https://github.com/ThummeTo/FMI.jl for more information.
